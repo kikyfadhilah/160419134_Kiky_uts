@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_main"
+    app:startDestination="@id/kosListFragment">
+
+    <fragment
+        android:id="@+id/kosListFragment"
+        android:name="id.ac.id.informatika.a160419134_kiky_uts.view.KosListFragment"
+        android:label="fragment_kos_list"
+        tools:layout="@layout/fragment_kos_list" >
+        <action
+            android:id="@+id/actionKosDetail"
+            app:destination="@id/kosDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kosDetailFragment"
+        android:name="id.ac.id.informatika.a160419134_kiky_uts.view.KosDetailFragment"
+        android:label="fragment_kos_detail"
+        tools:layout="@layout/fragment_kos_detail" />
+</navigation>

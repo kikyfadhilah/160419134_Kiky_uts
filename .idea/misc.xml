@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SEMESTER 6/ADVANCE NATIVE MOBILE PROGRAMMING/Bismillah/uts/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 6/ADVANCE NATIVE MOBILE PROGRAMMING/Bismillah/uts/app/src/main/res/layout/fragment_kos_detail.xml" value="0.264" />
         <entry key="..\:/SEMESTER 6/ADVANCE NATIVE MOBILE PROGRAMMING/Bismillah/uts/app/src/main/res/layout/fragment_kos_list.xml" value="0.10989583333333333" />
         <entry key="..\:/SEMESTER 6/ADVANCE NATIVE MOBILE PROGRAMMING/Bismillah/uts/app/src/main/res/layout/kost_list_item.xml" value="0.25" />
       </map>
